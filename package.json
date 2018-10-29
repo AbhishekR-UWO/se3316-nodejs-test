@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/AbhishekR-UWO/se3316-nodejs-test/issues"
   },
-  "homepage": "https://github.com/AbhishekR-UWO/se3316-nodejs-test#readme"
+  "homepage": "https://github.com/AbhishekR-UWO/se3316-nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5"
+  }
 }
