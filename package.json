@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "A test package for testing nodejs using express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekR-UWO/se3316-nodejs-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Abhishek Raut (araut4@uwo.ca)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhishekR-UWO/se3316-nodejs-test/issues"
+  },
+  "homepage": "https://github.com/AbhishekR-UWO/se3316-nodejs-test#readme"
+}
